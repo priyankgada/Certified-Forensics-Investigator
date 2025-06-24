@@ -4,12 +4,10 @@ Launch Your Career in Computer Forensics. The Computer Forensics Specialization 
 # About the Course
 BSUCHFI, or Bharatiya Shesha University Certified - Computer Hacking Forensic Investigator, is an BSU certification that validates expertise in digital forensics, including incident response, evidence collection, and legal reporting. It's a comprehensive program focused on the methodological approach to computer forensics, encompassing evidence acquisition, preservation, analysis, and reporting.  </br>
 
-# What you'll learn
+# After This Course
 The student will learn about digital forensics concepts.
 The student will understand concepts about Windows OS forensics.
 The Student will be able to apply new forensics concepts for the Windows Registry.
-
-# Skills 
 
 USB, System Configuration, General Networking, Record Keeping, Data Analysis Software, TCP/IP, Network Security, Cybersecurity, Data Storage, File Systems, Information Systems Security, User Accounts.
 
@@ -25,19 +23,20 @@ LinkedIn Connect for Job/Career Guidance - [Priyank Gada](https://www.linkedin.c
 Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.priyank)  </br>
 
 # 💻 Module 0: How to learn with BSU
-[Lecture 0.1 - Interacting with Github Repo](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 0.2 - Learn from Bharatiya shesha University](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 0.3 - Get Certified](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 0.4 - Future and Career Guidance](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
+[Lecture 0.1 - Interacting with Github Repo](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+[Lecture 0.2 - Learn from Bharatiya shesha University](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+[Lecture 0.3 - Get Certified](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+[Lecture 0.4 - Future and Career Guidance](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
 
-# 💻 Module 1:
-[Lecture 1.1 - Welcome to Digital Forensics Concept](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 1.2 - Computer Forensics and the role of the examiner](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 1.3 - Forensics Methodology and Investigation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-[Lecture 1.4 - Preparing our Forensics Workstation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5)
-Lecture 1.5 - Software URL
-Lecture 1.6 - How to create a forensics workstation
-Lecture 1.7 - How to proceed Further
+# 💻 Module 1: Introduction to Digital Forensics
+This introductory course provides a broad overview of computer forensics as an occupation by exploring methodologies used surrounding digital forensics. In addition, the student acquires open-source forensic tools to use throughout this path. </br>
+Lecture 1.1 - Welcome to Digital Forensics Concept [Lecture 1.1 - Welcome to Digital Forensics Concept](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+Lecture 1.2 - Computer Forensics and the role of the examiner [Lecture 1.2 - Computer Forensics and the role of the examiner](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+Lecture 1.3 - Forensics Methodology and Investigation [Lecture 1.3 - Forensics Methodology and Investigation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+Lecture 1.4 - Preparing our Forensics Workstation [Lecture 1.4 - Preparing our Forensics Workstation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+Lecture 1.5 - Software URL </br>
+Lecture 1.6 - How to create a forensics workstation </br>
+Lecture 1.7 - How to proceed Further </br>
 
 
 # 📊 Stats:
