@@ -10,16 +10,17 @@ BSUCHFI, or Bharatiya Shesha University Certified - Computer Hacking Forensic In
 
 Full CHFI course free - CHFI courseware - [View Full Course free](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5).
 Certification Coupon Free CHFI coupon and Exam voucher - [Get Certified](https://www.iSerpent.com)
+Udemy Certification for this course - [Get this course on udemy](https://www.udemy.com/user/priyank-gada/)
 About Trainer - [Priyank Gada](https://www.priyankgada.com)
 LinkedIn Connect for Job/Career Guidance - [Priyank Gada](https://www.linkedin.com/in/priyankgada)
 Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.priyank)
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gadapriyank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gadapriyank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gadapriyank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Stats:
+Views So far: 32,000 (updates after 1000 views)
+Students trained offline - 250,000 (offline training)
+Students online - 83,000 (Udemy, Unacademy and other websites)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gadapriyank&theme=radical&no-frame=false&no-bg=true&margin-w=4)
