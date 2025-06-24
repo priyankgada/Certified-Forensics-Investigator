@@ -18,7 +18,9 @@ Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.pri
 
 
 # 📊 Stats:
-Views So far: 32,000 (updates after 1000 views)
+
+Views So far: 32,000 (updates after 1000 views) </br>
+
 Students trained offline - 250,000 (offline training)
 Students online - 83,000 (Udemy, Unacademy and other websites)
 
