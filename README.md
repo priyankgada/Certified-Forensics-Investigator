@@ -23,10 +23,10 @@ LinkedIn Connect for Job/Career Guidance - [Priyank Gada](https://www.linkedin.c
 Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.priyank)  </br>
 
 # 💻 Module 0: How to learn with BSU
-[Lecture 0.1 - Interacting with Github Repo](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
-[Lecture 0.2 - Learn from Bharatiya shesha University](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
-[Lecture 0.3 - Get Certified](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
-[Lecture 0.4 - Future and Career Guidance](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
+Lecture 0.1 - Interacting with Github Repo [Lecture 0.1 - Interacting with Github Repo](https://youtu.be/f_Dkyvmp_eg) </br>
+Lecture 0.2 - Learn from Bharatiya shesha University [Lecture 0.2 - Learn from Bharatiya shesha University](https://youtu.be/BhZJFEu24pk) </br>
+Lecture 0.3 - Get Certified [Lecture 0.3 - Get Certified](https://youtu.be/H_NtGdbw_G0) </br>
+Lecture 0.4 - Future and Career Guidance [Lecture 0.4 - Future and Career Guidance](https://youtu.be/8G0WqWeDHwk) </br>
 
 # 💻 Module 1: Introduction to Digital Forensics
 This introductory course provides a broad overview of computer forensics as an occupation by exploring methodologies used surrounding digital forensics. In addition, the student acquires open-source forensic tools to use throughout this path. </br>
@@ -43,7 +43,7 @@ Lecture 1.7 - How to proceed Further </br>
 
 Views So far: 32,000 (updates after 1000 views) </br>
 Students trained offline - 250,000 (offline training)  </br>
-Students online - 83,000 (Udemy, Unacademy and other websites)  </br>
+Students online - 83,000 (Udemy, Unacademy, and other websites)  </br>
 
 ## 🏆 GitHub Trophies
 
