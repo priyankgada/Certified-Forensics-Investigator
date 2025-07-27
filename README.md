@@ -5,9 +5,9 @@ Launch Your Career in Computer Forensics. The Computer Forensics Specialization 
 BSUCHFI, or Bharatiya Shesha University Certified - Computer Hacking Forensic Investigator, is an BSU certification that validates expertise in digital forensics, including incident response, evidence collection, and legal reporting. It's a comprehensive program focused on the methodological approach to computer forensics, encompassing evidence acquisition, preservation, analysis, and reporting.  </br>
 
 # After This Course
-The student will learn about digital forensics concepts.
-The student will understand concepts about Windows OS forensics.
-The Student will be able to apply new forensics concepts for the Windows Registry.
+The student will learn about digital forensics concepts. </br>
+The student will understand concepts about Windows OS forensics. </br>
+The Student will be able to apply new forensics concepts for the Windows Registry. </br>
 
 USB, System Configuration, General Networking, Record Keeping, Data Analysis Software, TCP/IP, Network Security, Cybersecurity, Data Storage, File Systems, Information Systems Security, User Accounts.
 
@@ -16,6 +16,7 @@ USB, System Configuration, General Networking, Record Keeping, Data Analysis Sof
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  </br>
 
 Full CHFI course free - CHFI courseware - [View Full Course free](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5).  </br>
+Indian Unlock course link - [Unlock Full Course](https://creator.tagmango.app/forensics).  </br>
 Certification Coupon Free CHFI coupon and Exam voucher - [Get Certified](https://www.iSerpent.com)  </br>
 Udemy Certification for this course - [Get this course on udemy](https://www.udemy.com/user/priyank-gada/)  </br>
 About Trainer - [Priyank Gada](https://www.priyankgada.com)  </br>
