@@ -34,9 +34,38 @@ Lecture 1.1 - Welcome to Digital Forensics Concept [Lecture 1.1 - Welcome to Dig
 Lecture 1.2 - Computer Forensics and the role of the examiner [Lecture 1.2 - Computer Forensics and the role of the examiner](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
 Lecture 1.3 - Forensics Methodology and Investigation [Lecture 1.3 - Forensics Methodology and Investigation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
 Lecture 1.4 - Preparing our Forensics Workstation [Lecture 1.4 - Preparing our Forensics Workstation](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5) </br>
-Lecture 1.5 - Software URL </br>
-Lecture 1.6 - How to create a forensics workstation </br>
-Lecture 1.7 - How to proceed Further </br>
+Lecture 1.5 - Ultimate Forensics Tool kit - Software URL [Lecture 1.5 - Software URL](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 1.6 - Course tool list and Download List - Software URL [Lecture 1.6 - Course tool list and Download List - Software URL](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 1.7 - Quiz for Module 1 [Lecture 1.7 - Quiz for Module 1](https://iserpent.com/home/courses?category=computer-forensics) </br>
+
+# 💻 Module 2: Digital Forensics Workstation Setup
+In this section, we are going to set up our digital forensics workstation by setting up virtual machine and machines with tools for forensics investigation. This will be a practical guide for setting up everything in detail with screen recording. </br>
+Lecture 2.1 Setting up Windows Virtual Machine [Lecture 2.1 Setting up Windows Virtual Machine](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 2.2 Virtualisation for Forensics Toolkit [2.2 Virtualisation for Forensics Toolkit](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 2.3 Kali Linux for Forensics Investigation [Lecture 2.3 Kali Linux for Forensics Investigation](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 2.4 Quiz for Module 2 [Lecture 2.4 Quiz for Module 2](https://iserpent.com/home/courses?category=computer-forensics) </br>
+
+# 💻 Module 3: Learning the Practical Way Autopsy software
+In this section, we are going to learn how to download and get files for autopsy and then work on a practical case and learn autopsy software investigation for digital forensics investigation on a practical case practically with screen recording </br>
+Lecture 3.1 Installing Autopsy and HxD Editor [Lecture 3.1 Installing Autopsy and HxD Editor](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.2 File structure of our first case [Lecture 3.2 File structure of our first case](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.3 First Autopsy Case [Lecture 3.3 First Autopsy Case](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.4 File Extension Analysis with Autopsy [Lecture 3.4 File Extension Analysis with Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.5 Suicide Case Analysis with Autopsy [Lecture 3.5 Suicide Case Analysis with Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.6 Android, iOS and Drone Analysis with Autopsy [3.6 Android, iOS and Drone Analysis with Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.7 Investigation of Deleted files with Autopsy [Lecture 3.7 Investigation of Deleted files with Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.8 Investigating File Types in Autopsy [Lecture 3.8 Investigating File Types in Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.9 Investigation with Keyword Search in Autopsy [Lecture 3.9 Investigation with Keyword Search in Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.10 Report Generation with Autopsy [Lecture 3.10 Report Generation with Autopsy](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 3.11 Quiz for Module 3 [Lecture 3.11 Quiz for Module 3](https://iserpent.com/home/courses?category=computer-forensics) </br>
+
+# 💻 Module 4: Indian and US Laws and paperwork for Digital Evidence and investigation
+This section will be a bit theory as we are going to learn few laws that are important for digital investigation from all point of view i.e. International Laws for Digital Investigation, US law for Digital Investigation, Stored Communication Act, IT Act 2000, IT Act 2008, CrPRC for Indian Law for investigation </br>
+Lecture 4.1 Law and Ethics for Search Authority [Lecture 4.1 Law and Ethics for Search Authority](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 4.2 Understanding Evidence type [Lecture 4.2 Understanding Evidence type](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 4.3 Stored Communication Act [Lecture 4.3 Stored Communication Act](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 4.4 Indian Laws for Digital Forensics [Lecture 4.4 Indian Laws for Digital Forensics](https://iserpent.com/home/courses?category=computer-forensics) </br>
+Lecture 4.5 Quiz for Module 4 [Lecture 4.5 Quiz for Module 4](https://iserpent.com/home/courses?category=computer-forensics) </br>
 
 
 # 📊 Stats:
